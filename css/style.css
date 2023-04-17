@@ -262,6 +262,8 @@ a {
 }
 
 
+
+
 .web-container {
   box-shadow: 0px 5px 13px -1px #EFEFEF;
   width: 100%;
@@ -275,6 +277,7 @@ a {
   margin-top: 20px;
 }
 
+
 .web-img, .web-text {
   padding: 4rem 0;
   text-align: center;
@@ -285,6 +288,7 @@ a {
   font-size: 1.2rem;
   line-height: 1.6;
 }
+
 
 /* contact section */
 .contact-container {
